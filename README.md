@@ -1,16 +1,13 @@
-## Hi there 👋
+ ## Hi, I'm Christian 
+  𓆝 𓆟 𓆞𓆝 𓆟 𓆞𓆝 𓆟 𓆞𓆝 𓆟 𓆞 
 
-<!--
-**p2rez/p2rez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I'm a senior at The University of Houston Downtown (B.S Computer Science) 
+ <br> Currently working with Handshake on a fellowship training AI models </br>
+ <br>I’m currently working on a horror indie game! </br>
+ Currently learning Foundations of AI engineering @ codepath + SQL! 
+ 
+ <br> Languages: C++, C#, Python, JS , HTML, Java </br>
+ Ask me anything! always open to make a new connection 
+ contactp2rez@gmail.com 
+ 
+ <br> 𓆝 𓆟 𓆞𓆝 𓆟 𓆞𓆝 𓆟 𓆞𓆝 𓆟 𓆞 </br>
