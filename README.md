@@ -3,8 +3,8 @@
 
  I'm a senior at The University of Houston Downtown (B.S Computer Science) 
  <br> Currently working with Handshake on a fellowship training AI models </br>
- <br>I’m currently working on a horror indie game! </br>
- Currently learning Foundations of AI engineering @ codepath + SQL! 
+ <br>,working on a horror indie game, and enrolled in CodePath's AI301!  </br>
+
  
  <br> Languages: C++, C#, Python, JS , HTML, Java </br>
  Ask me anything! always open to make a new connection 
