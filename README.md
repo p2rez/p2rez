@@ -9,5 +9,7 @@
  <br> Languages: C++, C#, Python, JS , HTML, Java </br>
  Ask me anything! always open to make a new connection 
  contactp2rez@gmail.com 
+
+ my personal portfolio site : https://p2rez.github.io
  
  <br> 𓆝 𓆟 𓆞𓆝 𓆟 𓆞𓆝 𓆟 𓆞𓆝 𓆟 𓆞 </br>
